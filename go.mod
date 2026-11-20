@@ -1,4 +1,3 @@
-
-module github.com/codecrafters-io/interpreter-starter-go
+module github.com/ahmadmuhamadi/loxodrome
 
 go 1.27.0
